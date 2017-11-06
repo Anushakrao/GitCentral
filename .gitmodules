@@ -1,0 +1,3 @@
+[submodule "GitCentral"]
+	path = GitCentral
+	url = https://github.com/Anushakrao/GitCentral.git
